@@ -1,10 +1,10 @@
 #include<stdio.h>
 void main()
 {
-int n;
-printf("enter the n value");
-if(n>=0)
+int a;
+printf("enter the a value");
+if(a>=0)
 printf("positive");
-else(n<=0)
+else(a<=0)
 printf("negative");
 }
